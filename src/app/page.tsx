@@ -167,15 +167,15 @@ Example: 'A mobile app that uses AI to help people meal plan based on their diet
                 <div className='text-center'>
                   <span className='text-6xl mb-4 block'>🎭</span>
                   <h2 className='text-2xl font-bold text-purple-800 mb-4'>
-                    Well, That's... Creative! 🎨
+                    Well, That is... Creative! 🎨
                   </h2>
                   <p className='text-lg text-purple-700 italic'>
                     {analysis.satiricalFeedback}
                   </p>
                   <div className='mt-6 p-4 bg-white rounded-lg'>
                     <p className='text-gray-600'>
-                      💡 Ready to try again with a real startup idea? We're here
-                      to help you build the next unicorn! 🦄
+                      💡 Ready to try again with a real startup idea? We are
+                      here to help you build the next unicorn! 🦄
                     </p>
                   </div>
                 </div>
