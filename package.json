@@ -1,0 +1,38 @@
+{
+  "name": "startup-maturity-engine",
+  "version": "0.1.0",
+  "private": true,
+  "description": "AI-powered startup idea analyzer using LangChain and Groq",
+  "author": "thegoodcode",
+  "scripts": {
+    "dev": "pnpm open-browser && next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "open-browser": "start http://localhost:3000",
+    "dev-https": "next dev --experimental-https"
+  },
+  "dependencies": {
+    "@ai-sdk/openai": "^2.0.0",
+    "@langchain/community": "^0.3.49",
+    "@langchain/core": "^0.3.66",
+    "ai": "^5.0.0",
+    "groq-sdk": "^0.29.0",
+    "langchain": "^0.3.30",
+    "next": "15.4.2-canary.27",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "zod": "^4.0.14"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "15.4.5",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}
