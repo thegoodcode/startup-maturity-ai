@@ -32,7 +32,7 @@ A sophisticated AI-powered startup idea analyzer that transforms raw business co
 1. **Clone and setup the project**:
 
 ```bash
-npx create-next-app@latest startup-maturity-engine --typescript --tailwind --eslint --app --src-dir --import-alias "@/*"
+npx create-next-app@latest startup-maturity-engine --typescript --tailwind --app --src-dir --import-alias "@/*"
 cd startup-maturity-engine
 ```
 

@@ -1,6 +1,4 @@
-// lib/startup-chain.ts
 import Groq from 'groq-sdk'
-import { z } from 'zod'
 import { StartupAnalysis, ChainContext, ChainStepResult } from './types'
 
 // Initialize Groq client
