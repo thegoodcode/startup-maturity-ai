@@ -17,6 +17,7 @@
     "@langchain/community": "^0.3.49",
     "@langchain/core": "^0.3.66",
     "ai": "^5.0.0",
+    "framer-motion": "^12.23.12",
     "groq-sdk": "^0.29.0",
     "langchain": "^0.3.30",
     "next": "15.4.2-canary.27",
